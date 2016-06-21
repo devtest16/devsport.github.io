@@ -215,7 +215,7 @@ header {
 header .header-content {
     position: relative;
     width: 100%;
-    padding: 100px 15px;
+    padding: 100%;
     text-align: center;
 }
 
