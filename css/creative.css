@@ -128,12 +128,12 @@ aside {
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 700;
-    color: #222;
+    color: orange;
 }
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #030327;
+    color: orange;
 }
 
 .navbar-default .nav > li.active>a,
