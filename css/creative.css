@@ -29,7 +29,7 @@ body {
         }		
 hr {
     max-width: 80px;
-    border-color: #0b40b0;
+    border-color: blue;
     border-width: 5px;
 }
 
@@ -231,7 +231,7 @@ header .header-content .header-content-inner h1 {
 }
 
 header .header-content .header-content-inner hr {
-    margin: 150px auto;
+    margin: 100px auto;
 }
 
 header .header-content .header-content-inner h2 {
