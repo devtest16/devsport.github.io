@@ -229,7 +229,10 @@ header .header-content .header-content-inner h1 {
     font-weight: 1000px;
 	color:#dd8a0c;
 }
-
+.bio-header {
+	color:orange;
+}
+}
 header .header-content .header-content-inner hr {
     margin: 100px auto;
 }
